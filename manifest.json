@@ -1,0 +1,13 @@
+{
+  "name": "Dark Theme TMA",
+   "description": "Dark Theme",
+   "manifest_version": 2,
+   "version": "0.1",
+   "content_scripts": [{
+     "css": ["styles.css"],
+     "js": ["content.js"],
+     "matches": ["https://chat.tma.com.vn/*"]
+   }],
+   "permissions": ["https://chat.tma.com.vn/*"],
+   "icons": { "128": "icon.png" }
+}

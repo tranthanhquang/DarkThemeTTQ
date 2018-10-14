@@ -1,0 +1,56 @@
+.content{
+  background-color: #000000;
+}
+
+.rc-old .fixed-title{
+  background-color: #000000;
+  color: #BFBFBF;
+}
+
+.page-container .border-component-color{
+  border-color: #FFF;
+}
+
+.main-content-flex {
+  background-color: #000000;
+}
+
+.main-content-flex .flex-tab-bar{
+  background-color: #000000;
+}
+
+.background-transparent-darker-before{
+  background-color: #FFFFFF;
+}
+
+.messages-container .fixed-title {
+    background-color: #000000;
+}
+
+.main-content-flex .room-title{
+  color: #BFBFBF;
+}
+
+.rc-message-box{
+  background-color: #535353;
+}
+
+.rc-message-box textarea{
+  color: #FFFFFF;
+}
+
+.rc-message-box .rc-input__icon-svg{
+  color: #000000;
+}
+
+.messages-box .user{
+  color: #FFFFFF;
+}
+
+.messages-box .body{
+  color: #00FF00;
+}
+
+.messages-box .body div{
+  color: #444444;
+}
