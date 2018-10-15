@@ -54,3 +54,15 @@
 .messages-box .body div{
   color: #444444;
 }
+
+.messages-box .body .attachment-block .attachment-flex .attachment-flex-column-grow{
+  color: #FB0FFF;
+}
+
+.messages-box .body .attachment-block .attachment-author{
+  color: #BFBFBF;
+}
+
+.messages-box .body a{
+  color: #0F83FF;
+}
